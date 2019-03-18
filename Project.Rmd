@@ -1,6 +1,6 @@
 ---
 title: "Exploratory Data Analysis on Happy Moments"
-author: "Rui Zhang"
+author: "Yash Naik"
 subtitle: Does happiness mean different things to different people? If so, what might
   be the factors that affect people's definitions of happiness? And how?
 output:
